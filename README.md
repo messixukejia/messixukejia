@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋
 
 <!--
 **messixukejia/messixukejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +21,9 @@ My name is **Xu Kejia**
 
 - 🔭 I’m currently working on [Aliyun](https://www.aliyun.com/).
 - 💕 I’m a cloud computing enthusiast.
+
+<p align="center">
+  <img alt="Senior Developer" width="200" height="200" src="https://ilogtail-community-edition.oss-cn-shanghai.aliyuncs.com/images/contributing/achievement/Sr.Dev.png" />
+  <img alt="Senior Ambassador" width="200" height="200" src="https://ilogtail-community-edition.oss-cn-shanghai.aliyuncs.com/images/contributing/achievement/Sr.Amb.png" />
+  <img alt="Junior Moderator" width="200" height="200" src="https://ilogtail-community-edition.oss-cn-shanghai.aliyuncs.com/images/contributing/achievement/Jr.Mod.png" />
+</p>
