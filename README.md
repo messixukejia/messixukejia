@@ -24,7 +24,7 @@ My name is **Xu Kejia**
 
 ---
 
-These are my badges from iLogtail community.
+These are my iLogtail community badges .
 
 <p align="center">
   <!-- 高级开发者 -->
