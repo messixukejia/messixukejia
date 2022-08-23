@@ -21,7 +21,7 @@ My name is **Xu Kejia**
 
 - 💕 I’m a cloud computing enthusiast.
 - 🔭 I’m currently working on [Aliyun](https://www.aliyun.com/).
-- 🔭 I’m currently working on iLogtail project.
+- 🔭 I’m currently working on [iLogtail](https://github.com/alibaba/ilogtail) project.
 <p align="center">
   <img alt="Senior Developer" width="200" height="200" src="https://ilogtail-community-edition.oss-cn-shanghai.aliyuncs.com/images/contributing/achievement/Sr.Dev.png" />
   <img alt="Senior Ambassador" width="200" height="200" src="https://ilogtail-community-edition.oss-cn-shanghai.aliyuncs.com/images/contributing/achievement/Sr.Amb.png" />
